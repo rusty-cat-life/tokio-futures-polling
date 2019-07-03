@@ -1,0 +1,12 @@
+[package]
+name = "tokio_futures_polling"
+version = "0.1.0"
+authors = ["rustycat"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.18"
+serde = "1.0.93"
+chrono = "0.4.7"
+futures = "0.1.27"
+tokio = "0.1"
